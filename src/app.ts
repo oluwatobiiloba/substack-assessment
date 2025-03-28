@@ -10,7 +10,8 @@ import { authRoutes } from './routes/auth.routes';
 import { swaggerSpec } from './config/swagger';
 import productRoutes from './routes/product.routes';
 import helmet from 'helmet';
-
+import dotenv from "dotenv"
+dotenv.config()
 const app = express();
 
 // Security middleware
