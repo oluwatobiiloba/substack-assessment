@@ -146,5 +146,9 @@ The API uses standard HTTP status codes and returns error responses in the follo
 }
 ```
 
+## Postman Doc
+
+https://documenter.getpostman.com/view/23034417/2sB2cPik6V
+
 ## Note
 - User schema not included as its out of scope
