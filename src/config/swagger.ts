@@ -18,6 +18,10 @@ const options: swaggerJsdoc.Options = {
         url: 'http://localhost:3000',
         description: 'Development server',
       },
+      {
+        url: 'https://substack-assessment.onrender.com',
+        description: 'Live API Deployed on render'
+      }
     ],
     components: {
       securitySchemes: {
